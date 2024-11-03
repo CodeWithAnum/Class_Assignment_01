@@ -1,0 +1,22 @@
+.container {
+    color: black;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex;
+    gap: 3rem;
+    justify-content: space-evenly;
+    border-radius: 0cap;
+}
+
+
+.header {
+    color: black;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex;
+    gap: 3rem;
+    justify-content: space-evenly;
+    border-radius: 0cap;
+}

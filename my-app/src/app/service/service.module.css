@@ -1,0 +1,21 @@
+.container {
+    color: rgb(0,0,0);
+    background-color: aqua;
+}
+
+.header {
+    color: black;
+    background-color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex;
+    gap: 3rem;
+    justify-content: space-evenly;
+}
+
+.list {
+    color: black;
+    background-color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
